@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yohanes Tamirat - Portfolio Website
 
 A modern, responsive portfolio website showcasing professional experience, projects, and technical skills.
@@ -84,3 +85,6 @@ Update the constants in `src/pages/Index.tsx`:
 - Email: yohanestamirat2023@gmail.com
 - GitHub: [@jo122313](https://github.com/jo122313)
 - LinkedIn: [Yohanes Tamirat](https://www.linkedin.com/in/yohanes-tamirat-890a99369)
+=======
+# myportfolio
+>>>>>>> e5157f08cf15e7a0a31bc3ddef5635cb65f08762
