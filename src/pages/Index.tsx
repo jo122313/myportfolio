@@ -60,7 +60,7 @@ const PROJECTS = [
     title: 'Ethiopian Banks Foreign Exchange Rate',
     description: 'Real-time foreign exchange rate tracker for Ethiopian banks. Displays current exchange rates, historical data, and currency conversion tools.',
     tech: ['React', 'API Integration', 'Chart.js', 'Responsive Design'],
-    github: 'https://github.com/jo122313/ethiopian-banks-exchange',
+    github: 'https://github.com/jo122313/Ethiopian-Banks-Foreign_Exchange-Rate.git',
     live: '#',
     image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop'
   }
